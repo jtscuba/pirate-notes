@@ -2,7 +2,7 @@
 title: A Pirate's Life
 description: A Salty Sea Dog's Selection of Scuttlebut
 published: true
-date: 2022-03-27T14:48:00.031Z
+date: 2022-03-27T14:48:07.893Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-27T05:02:02.931Z
