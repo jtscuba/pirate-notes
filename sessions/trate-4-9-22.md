@@ -2,7 +2,7 @@
 title: April 9, 2022 Session
 description: On the high seas, recovering from a close call with the leviathin, the party sets about repairing their ship. But where will this madness lead them?
 published: true
-date: 2022-04-09T15:47:35.395Z
+date: 2022-04-09T16:01:24.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-09T04:07:50.896Z
@@ -28,14 +28,18 @@ Set up to sneak aboard a Dutch military vessel that's towing the Ever Given, an 
 
 ## How do I connect what I want with what they want
 
-1. I can set them a series of challenges and encounters that visit their little cove while they're repairing the ship. First is the merfolk
-
-2. Captain Ortaka and a smattering of the crew managed to slip off in a life boat while the leviathin was ravaging the ship. He'll find the party while they're riding out the massive storms and fog left behind in the aftermath of the Deutschland battle and offer them a proposition. Help him retrieve the admiral and loot the dutch ship in exchange for whatever gold they can keep and a commendation from Deutschland.
+1. I can set them a series of challenges and encounters that visit their little cove while they're repairing the ship. 
 
 
 ## What gets in their way
 
-1. Mirfolk having a political spat. The princess Erena and her royal guards are fleeing a coup attempt. They'
+1. Mirfolk having a political spat. The princess Erena and her royal guards are fleeing a coup attempt. They're mostly dead by this point and at the parties mercy.
+
+2. Next comes the Barron, who's been sent to kill the princess. The party can choose to shield her or let her go.
+
+3. After the merfolk are dealt with and the storms come in, eerie songs can be heard across the water. We'll see how the party handles that.
+
+2. Captain Ortaka and a smattering of the crew managed to slip off in a life boat while the leviathin was ravaging the ship. He'll find the party while they're riding out the massive storms and fog left behind in the aftermath of the Deutschland battle and offer them a proposition. Help him retrieve the admiral and loot the dutch ship in exchange for whatever gold they can keep and a commendation from Deutschland.
 
 ## Snippets
 
