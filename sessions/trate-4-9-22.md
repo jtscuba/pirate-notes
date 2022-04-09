@@ -2,7 +2,7 @@
 title: April 9, 2022 Session
 description: On the high seas, recovering from a close call with the leviathin, the party sets about repairing their ship. But where will this madness lead them?
 published: true
-date: 2022-04-09T05:06:18.103Z
+date: 2022-04-09T15:34:21.318Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-09T04:07:50.896Z
@@ -28,9 +28,26 @@ Set up to sneak aboard a Dutch military vessel that's towing the Ever Given, an 
 
 ## How do I connect what I want with what they want
 
-1.
+1. I can set them a series of challenges and encounters that visit their little cove while they're repairing the ship
 
 2. Captain Ortaka and a smattering of the crew managed to slip off in a life boat while the leviathin was ravaging the ship. He'll find the party while they're riding out the massive storms and fog left behind in the aftermath of the Deutschland battle and offer them a proposition. Help him retrieve the admiral and loot the dutch ship in exchange for whatever gold they can keep and a commendation from Deutschland.
 
 
 ## What gets in their way
+
+1. Mirfolk having a political spat. The princess Erena and her royal guards are fleeing a coup attempt. They'
+
+## Snippets
+
+`document.getElementsByClassName("scene-control")[0].click()`
+
+```
+!i begin
+!multiline
+!i madd "Sahuagin" -n 4
+!i madd "Sahuagin Barron" -name "Barron"
+```
+
+```
+!i a 
+```
