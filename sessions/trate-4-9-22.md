@@ -2,7 +2,7 @@
 title: April 9, 2022 Session
 description: On the high seas, recovering from a close call with the leviathin, the party sets about repairing their ship. But where will this madness lead them?
 published: true
-date: 2022-04-09T18:17:46.249Z
+date: 2022-04-09T19:43:06.047Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-09T04:07:50.896Z
@@ -53,6 +53,10 @@ Set up to sneak aboard a Dutch military vessel that's towing the Ever Given, an 
 !i madd "Sahuagin" -n 4
 !i madd "Merrow"
 !i madd "Sahuagin Barron" -name "Barron"
+```
+
+```
+!i a claws -t "RNJesus"
 ```
 
 ```
