@@ -2,7 +2,7 @@
 title: April 9, 2022 Session
 description: On the high seas, recovering from a close call with the leviathin, the party sets about repairing their ship. But where will this madness lead them?
 published: true
-date: 2022-04-09T16:01:24.792Z
+date: 2022-04-09T18:17:46.249Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-09T04:07:50.896Z
@@ -28,12 +28,14 @@ Set up to sneak aboard a Dutch military vessel that's towing the Ever Given, an 
 
 ## How do I connect what I want with what they want
 
-1. I can set them a series of challenges and encounters that visit their little cove while they're repairing the ship. 
+1. miracle grow
+2. gold
+3. wifu
 
 
 ## What gets in their way
 
-1. Mirfolk having a political spat. The princess Erena and her royal guards are fleeing a coup attempt. They're mostly dead by this point and at the parties mercy.
+1. Mirfolk having a political spat. The princess Erena and her royal guards are fleeing a coup attempt. They're mostly dead by this point and at the parties mercy. Her guard is named Grison.
 
 2. Next comes the Barron, who's been sent to kill the princess. The party can choose to shield her or let her go.
 
